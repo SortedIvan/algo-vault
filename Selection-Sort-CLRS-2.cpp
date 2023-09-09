@@ -1,5 +1,5 @@
 // Solution to exercise [2.2-2]
-// Simple variant to insertion sort
+// Simple variant to s sort
 
 // Online C++ compiler to run C++ program online
 #include <iostream>
