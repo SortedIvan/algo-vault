@@ -1,2 +1,2 @@
 # algo-vault
-I store all of my leetcode solutions to problems here, in various languages, to have the ease of coming back to them.
+This repository is dedicated to storing all of my personal leetcode submissions with full solutions. In the future, this repo will have a small dedicated server that will be connected to my personal website.
