@@ -1,9 +1,0 @@
-1. Given integers x,y,z and n find all integers from 1 to n that are multiples of x or y, and not of z.
-When we are refering to some integer n being a multiple of x, we mean
-let n = 2, x = 10
-Then, n is a multiple of x, because
-2 x 5 = 10.
-Thus, in programming, it would then mean:
-10 % 2 ?= 0, or in other words, 10 divided by 2 brings no remainder, thus it is a multiple.
-
--------------------------------------------------------------------------------------------------------------------------
