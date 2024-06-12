@@ -1,5 +1,6 @@
 Redoing problems:
- - REDO 146. LRU CACHE
+ - REDO 146 - LRU CACHE
+ - REDO 542 - 01 matrix
 
 Other:
  - Put naming correct naming conventions for all problems in here
