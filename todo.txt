@@ -6,4 +6,5 @@ Other:
  - Seperate problems into more sub-folders
  - Practice sliding window problems 
  - Learn Kruskal and apply it to 684. Redundant connection
+ - Learn Kruskal and apply it to 1584. Min Cost to Connect All Points
  - Learn union find data structure and apply to graph problems
