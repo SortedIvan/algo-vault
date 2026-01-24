@@ -54,3 +54,7 @@ void UnionFind::union_elements(int x, int y) {
 		parentMap[parent_x] = parent_y;
 	}
 }
+
+const std::unordered_map<int, int>& UnionFind::parentMapNonModifiable() {
+	return parentMap;
+}

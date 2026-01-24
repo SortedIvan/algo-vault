@@ -16,6 +16,7 @@ private:
 	std::unordered_map<int,int> parentMap;
 	std::unordered_map<int,int> groupSize; // keep a track for a group's 
 public:
+	const std::unordered_map<int, int>& parentMapNonModifiable();
 	UnionFind(std::vector<int> elements);
 	int find(int x);
 	void union_elements(int x, int y);
