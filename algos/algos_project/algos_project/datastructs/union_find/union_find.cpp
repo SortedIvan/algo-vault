@@ -51,7 +51,7 @@ void UnionFind::union_elements(int x, int y) {
 		parentMap[y] = parent_x;
 	}
 	else {
-		parentMap[parent_x] = parent_y;
+		parentMap[parent_y] = parent_x;
 	}
 }
 
